@@ -12,7 +12,7 @@ Since the datasets is too large, it is difficult to upload whole dataset on Gith
 ![Image text](https://github.com/BrandonKwok95/AMLS_II_assignment19_20/blob/master/Datasets_display.png)
 
 ## 2. LeNet-5 & VCG16
-After prepared Datasets, you can run the 'train_model.py' in A_LeNet-5 and B_VCG16 to train model and you can get result model in folder 'model'. Moreover, you camn run the 'test_model.py' to receieve a '.csv' file, which can be uploaded on Kaggle to get a test score.(https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/submissions)
+After prepared Datasets, you can run the 'train_model.py' in A_LeNet-5 and B_VCG16 to train model and you can get result model in folder 'model'. Moreover, you camn run function 'test()' in 'test_model.py' to receieve a '.csv' file, which can be uploaded on Kaggle to get a test score.(https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/submissions)
 Here is the score on two models:
 ![Image text](https://github.com/BrandonKwok95/AMLS_II_assignment19_20/blob/master/socre.png)
 
